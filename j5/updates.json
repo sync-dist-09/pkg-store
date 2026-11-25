@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "{5a386c4d-e45d-49ec-bbc1-ff948936230f}": {
+      "updates": [
+        {
+          "version": "3.0.1",
+          "update_link": "https://github.com/sync-dist-09/pkg-store/releases/download/j5-v3.0.1/j5-3.0.1.xpi"
+        }
+      ]
+    }
+  }
+}
