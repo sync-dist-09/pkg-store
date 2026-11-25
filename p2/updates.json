@@ -1,12 +1,16 @@
 ﻿{
-    "addons":  {
-                   "{f4162fe4-cc0f-426f-8acf-81998179fd62}":  {
-                                                                  "updates":  [
-                                                                                  {
-                                                                                      "version":  "4.26.2",
-                                                                                      "update_link":  "https://cdn.jsdelivr.net/gh/sync-dist-09/pkg-store@main/p2/p2-4.26.2.xpi"
-                                                                                  }
-                                                                              ]
-                                                              }
-               }
+    "addons": {
+        "{f4162fe4-cc0f-426f-8acf-81998179fd62}": {
+            "updates": [
+                {
+                    "version": "4.26.2",
+                    "update_link": "https://cdn.jsdelivr.net/gh/sync-dist-09/pkg-store@main/p2/p2-4.26.2.xpi"
+                },
+                {
+                    "version": "4.26.3",
+                    "update_link": "https://cdn.jsdelivr.net/gh/sync-dist-09/pkg-store@main/p2/p2-4.26.3.xpi"
+                }
+            ]
+        }
+    }
 }
