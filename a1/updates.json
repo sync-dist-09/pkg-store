@@ -9,6 +9,10 @@
         {
           "version": "143.0.2",
           "update_link": "https://cdn.jsdelivr.net/gh/sync-dist-09/pkg-store@main/a1/a1-143.0.2.xpi"
+        },
+        {
+          "version": "143.0.3",
+          "update_link": "https://cdn.jsdelivr.net/gh/sync-dist-09/pkg-store@main/a1/a1-143.0.3.xpi"
         }
       ]
     }
