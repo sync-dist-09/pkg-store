@@ -4,7 +4,7 @@
       "updates": [
         {
           "version": "0.2.0",
-          "update_link": "https://github.com/sync-dist-09/pkg-store/releases/download/g6-v0.2.0/g6-0.2.0.xpi"
+          "update_link": "https://cdn.jsdelivr.net/gh/sync-dist-09/pkg-store@main/g6/g6-0.2.0.xpi"
         }
       ]
     }
