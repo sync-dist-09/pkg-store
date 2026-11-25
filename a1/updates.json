@@ -5,6 +5,10 @@
         {
           "version": "143.0.1",
           "update_link": "https://github.com/sync-dist-09/pkg-store/releases/download/a1-v143.0.1/a1-143.0.1.xpi"
+        },
+        {
+          "version": "143.0.2",
+          "update_link": "https://github.com/sync-dist-09/pkg-store/releases/download/a1-v143.0.2/a1-143.0.2.xpi"
         }
       ]
     }
