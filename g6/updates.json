@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "{0f9e0db8-dae2-40e3-81b1-c166db140653}": {
+      "updates": [
+        {
+          "version": "0.2.0",
+          "update_link": "https://github.com/sync-dist-09/pkg-store/releases/download/g6-v0.2.0/g6-0.2.0.xpi"
+        }
+      ]
+    }
+  }
+}
