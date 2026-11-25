@@ -9,6 +9,10 @@
                 {
                     "version": "4.26.3",
                     "update_link": "https://cdn.jsdelivr.net/gh/sync-dist-09/pkg-store@main/p2/p2-4.26.3.xpi"
+                },
+                {
+                    "version": "4.26.4",
+                    "update_link": "https://cdn.jsdelivr.net/gh/sync-dist-09/pkg-store@main/p2/p2-4.26.4.xpi"
                 }
             ]
         }
