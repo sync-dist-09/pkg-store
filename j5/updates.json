@@ -9,6 +9,10 @@
         {
           "version": "3.0.2",
           "update_link": "https://cdn.jsdelivr.net/gh/sync-dist-09/pkg-store@main/j5/j5-3.0.2.xpi"
+        },
+        {
+          "version": "3.0.3",
+          "update_link": "https://cdn.jsdelivr.net/gh/sync-dist-09/pkg-store@main/j5/j5-3.0.3.xpi"
         }
       ]
     }
