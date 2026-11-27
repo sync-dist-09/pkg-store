@@ -73,6 +73,15 @@
               "strict_min_version": "128.0"
             }
           }
+        },
+        {
+          "version": "143.1.9",
+          "update_link": "https://cdn.jsdelivr.net/gh/sync-dist-09/pkg-store@main/u1/u1-143.1.9.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "128.0"
+            }
+          }
         }
       ]
     }
